@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://knotinstructions.com/sitemap.xml
